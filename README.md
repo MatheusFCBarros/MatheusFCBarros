@@ -6,6 +6,7 @@
 - 📫 Contate me no email: matheus.fcbarros@gmail.com
 <div>
    <a href = "https://github.com/MatheusFCBarros">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFCBarros&show_icons=true&theme=tokyonight&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFCBarros&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFCBarros&show_icons=true&theme=tokyonight&count_private=true"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFCBarros&layout=compact&theme=tokyonight&count_private=true"> 
 </div>
+   
