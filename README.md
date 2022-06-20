@@ -8,4 +8,4 @@
    <a href = "https://github.com/MatheusFCBarros">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusFCBarros&show_icons=true&theme=tokyonight&count_private=true"/>
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFCBarros&layout=compact&theme=tokyonight"/>
-     </div>
+</div>
