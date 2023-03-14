@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Fellipe  👋
 
 
-- 🔭 Atualmente estou a procura de uma oportunidade na área de Dados
+- 🔭 Atualmente sou Analista de Dados / Analista de Business Intelligence
 - 🌱 Estou estudando Data Science, Python, SQL, Power BI, Cloud
 - 📫 Contate me no email: matheus.fcbarros@gmail.com
 <div>
