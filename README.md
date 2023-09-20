@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente sou Analista de Dados / Analista de Business Intelligence na Performa Brasil
-- 🌱 Estou estudando Data Science, Python, SQL, Power BI, Cloud
+- 🌱 Estudos constantes em Data Science, Python, SQL, Power BI, Qlik,Cloud
 - 📫 Contate me no email: matheus.fcbarros@gmail.com
 <div>
    <a href = "https://github.com/MatheusFCBarros">
